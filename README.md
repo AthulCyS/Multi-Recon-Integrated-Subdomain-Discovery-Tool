@@ -23,7 +23,7 @@ This script requires the following tools to be installed and available in your s
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AthulCys/multi-recon.git](https://github.com/YOUR_USERNAME/multi-recon.git)
+   git clone [https://github.com/AthulCys/multi-recon.git](https://github.com/YOUR_USERNAME/multi-recon.git)](https://github.com/AthulCyS/Multi-Recon-Integrated-Subdomain-Discovery-Tool.git)
    cd multi-recon
 Set up a Virtual Environment:
 
