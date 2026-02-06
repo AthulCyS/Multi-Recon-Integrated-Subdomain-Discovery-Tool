@@ -3,7 +3,7 @@ import os
 import sys
 
 # Your Specific Configuration
-CHAOS_KEY = "070ec982-84b5-44dc-823e-e25efd7f5244"
+CHAOS_KEY = "type your cahsos api key"
 
 def run_tool(name, cmd):
     print(f"[*] Running {name}...")
